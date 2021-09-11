@@ -1,8 +1,4 @@
 ---
 ---
 
-[Go to mylog.txt](/TXT/mylog.txt)
-
-[Go to GitHub Repo](https://github.com/hollowsyde/ostest)
-
-[Go to my Links](/links.md)
+|[HOME]()|[REPO](https://github.com/hollowsyde/ostest)|[LOG](/TXT/mylog.txt)|[LINKS](/links.md)|
