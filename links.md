@@ -2,6 +2,8 @@
 permalink: /LINKS/
 ---
 
+| [HOME]()  | [REPO](https://github.com/hollowsyde/ostest)  | [LOG](/TXT/mylog.txt) | [LINKS](/links.md)  |
+
 # Interesting Links
 
 1. [Linus Tech Tips - 10 Ways Linux is Better](https://www.youtube.com/watch?v=mAFMJ1LnQu8)<br>
