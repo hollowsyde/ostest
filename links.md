@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-| [HOME](https://hollowsyde.github.io/ostest/)  | [REPO](https://github.com/hollowsyde/ostest)  | [LOG](/TXT/mylog.txt) | [LINKS]()  |
+## | [HOME](https://hollowsyde.github.io/ostest/)  | [REPO](https://github.com/hollowsyde/ostest)  | [LOG](/TXT/mylog.txt) | [LINKS]()  |
 
 # Interesting Links
 
