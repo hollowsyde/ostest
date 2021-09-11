@@ -1,5 +1,6 @@
 ---
-permalink: /LINKS/
+layout: "layout"
+permalink: /Interesting Links/
 ---
 
 ### | [HOME](https://hollowsyde.github.io/ostest/)  | [REPO](https://github.com/hollowsyde/ostest)  | [LOG](/TXT/mylog.txt) | [LINKS]()  |
