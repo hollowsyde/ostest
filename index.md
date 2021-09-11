@@ -1,4 +1,4 @@
 ---
 ---
 
-| [HOME]()  | [REPO](https://github.com/hollowsyde/ostest)  | [LOG](/TXT/mylog.txt) | [LINKS](/links.md)  |
+| [HOME]()  | [REPO](https://github.com/hollowsyde/ostest)  | [LOG](/TXT/mylog.txt) | [LINKS](/LINKS/)  |
